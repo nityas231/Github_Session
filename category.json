@@ -1,0 +1,198 @@
+{
+  "Category": [
+    {
+      "id": "C",
+      "questionset1": [
+        {
+          "time": 30,
+          "total_marks": 30
+        },
+        {
+          "id": 1,
+          "question": "Who pratika?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl g",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "a"
+        },
+        {
+          "id": 2,
+          "question": "Who1 invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "b"
+        },
+        {
+          "id": 3,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "c"
+        },
+        {
+          "id": 4,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        },
+        {
+          "id": 5,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        },
+        {
+          "id": 6,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "a"
+        },
+        {
+          "id": 7,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "b"
+        },
+        {
+          "id": 8,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "a"
+        },
+        {
+          "id": 9,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "b"
+        },
+        {
+          "id": 10,
+          "question": "Who invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "b"
+        }
+      ],
+      "questionset2": [
+        {
+          "id": 1,
+          "question": "Who lkfjlft?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        },
+        {
+          "id": 2,
+          "question": "Who1 invented JavaScript?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        }
+      ]
+    },
+    {
+      "id": "C++",
+      "questionset1": [
+        {
+          "id": 1,
+          "question": "C++?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        },
+        {
+          "id": 2,
+          "question": "C++?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        }
+      ],
+      "questionset2": [
+        {
+          "id": 1,
+          "question": "C++2?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        },
+        {
+          "id": 2,
+          "question": "C++ ?",
+          "answers": {
+            "a": "Douglas Crockford",
+            "b": "Sheryl Sandberg",
+            "c": "Brendan Eich",
+            "d": "amir jadhav"
+          },
+          "answer": "d"
+        }
+      ]
+    }
+  ]
+}

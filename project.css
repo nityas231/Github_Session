@@ -1,0 +1,117 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(89, 100, 255) */
+    
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(97, 101, 156, 0.349);
+    width: 100vm;
+    height: 100vh;
+}
+.quiz-user {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-left: 30px;
+}
+.quizContainer:question {
+    background-color: white;
+    width: 80%;
+    height: 50%x;
+    display: grid;
+    grid-template-rows: 60px auto;
+}
+#timer {
+    background-color: rgb(128, 129, 148);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100%;
+    color: white;
+    style="font-size: 25px"
+}
+.choiceList {
+    list-style-type: none;
+    margin: 30px 0px;
+}
+.question {
+    background-color: #ecf0f1;
+    padding: 10px 30px 30px 30px;
+}
+.nextButton {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color:  rgb(128, 129, 148);
+    padding: 15px 35px;
+    border-radius: 27px;
+    transition: 0.4s all;
+    float: right;
+    right: 30%;
+}
+.preButton {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color:  rgb(128, 129, 148);
+    padding: 15px 35px;
+    border-radius: 27px;
+    transition: 0.4s all;
+    float: left;
+    right: 30%;
+}
+.nextButton:hover {
+    color:  rgb(128, 129, 148);
+    background-color: white;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2) ;
+}
+.preButton:hover {
+    color:  rgb(128, 129, 148);
+    background-color: white;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2) ;
+}
+
+#CPP {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color:  rgb(128, 129, 148);
+    padding: 15px 35px;
+    border-radius: 27px;
+    transition: 0.4s all;
+    float: left;
+    right: 50%;
+
+}
+#C {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color:  rgb(128, 129, 148);
+    padding: 15px 35px;
+    border-radius: 27px;
+    transition: 0.4s all;
+    float: left;
+    right: 40%;
+}
+#CPP:hover {
+    color:  rgb(128, 129, 148);
+    background-color: white;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2) ;
+}
+#C:hover {
+    color:  rgb(128, 129, 148);
+    background-color: white;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2) ;
+}
